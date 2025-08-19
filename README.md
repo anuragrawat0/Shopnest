@@ -1,32 +1,4 @@
-Project Setup
-
-MongoDB & Redis Integration
-
-Stripe Payment Setup
-
-Robust Authentication System
-
-JWT with Refresh/Access Tokens
-
-E-Commerce Core
-
-Product & Category Management
-
-Shopping Cart Functionality
-
-Checkout with Stripe
-
-Coupon Code System
-
-Admin Dashboard
-
-Sales Analytics
-
-Design with Tailwind
-
-Security & Data Protection
-
-Caching with Redis.
+This project includes a complete setup with MongoDB and Redis integration, secure authentication using JWT with refresh and access tokens, and Stripe-powered payments. It covers essential e-commerce features such as product and category management, shopping cart and checkout flows, coupon code support, and an admin dashboard with sales analytics. The frontend is built with Tailwind for a clean design, while caching with Redis ensures fast performance, and robust security measures protect user data.
 
 ### Setup .env file
 
